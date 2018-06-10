@@ -1,0 +1,9 @@
+Building Zedexgoldcoin
+
+See doc/readme-qt.rst for instructions on building Zedexgoldcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Zedexgoldcoin.
+
+See doc/build-*.txt for instructions on building zedexgoldcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Zedexgoldcoin.
